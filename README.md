@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto de Simulação
 
 ## Descrição
@@ -31,3 +32,6 @@ Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias.
 
 ## Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+=======
+# simulation-kl
+>>>>>>> 20f93fc3d9e4576b74c6d4480bda75fef7f602e3
